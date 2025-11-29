@@ -6,7 +6,7 @@ https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yucatan" tvg-logo="" group-title="Yucatan",Yucatan
 https://stream-207963.castr.net/65313d270e749722b6474684/live_4d3635d0dfbf11eeaae187cc1ffaf09b/timeshift_rel-10.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="colombia extremo television" tvg-logo="https://static.wixstatic.com/media/7acae1_73e0b4e3e4984e1fa287381b8f2a810f~mv2.png" group-title="",Colombia Extremo Television
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/46
+https://edge.teveo.net/live/AeAAAgBKAA5BA1IAyADIUDAAAAGAAAAAAmkrWk69rJ2vAAAA/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Visión Tv HD" tvg-logo="https://static.wixstatic.com/media/7acae1_73e0b4e3e4984e1fa287381b8f2a810f~mv2.png" group-title="Guatemala",Visión Tv HD
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/45
 #EXTINF:-1 tvg-id="" tvg-name="Visión Tv SD (GUA)" tvg-logo="https://static.wixstatic.com/media/7acae1_73e0b4e3e4984e1fa287381b8f2a810f~mv2.png" group-title="Guatemala",Visión Tv SD (GUA)
