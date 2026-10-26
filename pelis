@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Street Fighter 2026" tvg-logo="" group-title="Pelicula",Street Fighter 2026
-https://niramirus.com/stream/adaZNQzJBR330Hs8iuyPHg/kjhhiuahiuhgihdf/1792479601/75958375/master.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Street Fighter 2026" tvg-logo="" group-title="Pelicula",Street Fighter 2026
-https://niramirus.com/stream/adaZNQzJBR330Hs8iuyPHg/kjhhiuahiuhgihdf/1792479601/75958375/master.m3u8
+#EXTINF:-1 group-title="Kids;24/7" tvg-logo="https://i.imgur.com/tk9X8Xu.jpeg",Los Sipson 24/7
+http://200.80.230.125:5056/Live/ec4de54cae5ae5c47a9f0359c5754e69/online-24-7_404.m3u8
+#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/tk9X8Xu.jpeg", Azteca Uno
+https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
