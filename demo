@@ -1,9 +1,50 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kids;24/7" tvg-logo="https://i.imgur.com/tk9X8Xu.jpeg",Los Sipson 24/7
+##EXTINF:-1 group-title="Niños;24/7" tvg-logo="https://i.imgur.com/tk9X8Xu.jpeg",Los Sipson
 http://200.80.230.125:5056/Live/ec4de54cae5ae5c47a9f0359c5754e69/online-24-7_404.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/I8L7qoa.png", Azteca Uno
 https://jmp2.uk/plu-646ccc7a2858cb0008127367.m3u8
-#EXTINF:-1 group-title="Kids;24/7" tvg-logo="https://i.imgur.com/hwzqAaq.jpeg", Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 group-title="Niños;24/7" tvg-logo="https://i.imgur.com/hwzqAaq.jpeg", Bob Esponja Pantalones Cuadrados
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:-1 group-title="Kids;24/7" tvg-logo="https://i.imgur.com/UoTQohC.jpeg",Capitan Tsubasa
+#EXTINF:-1 group-title="Niños;24/7" tvg-logo="https://i.imgur.com/UoTQohC.jpeg",Capitan Tsubasa
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
+#EXTINF:-1 group-title="Mexico;Series" tvg-logo="https://i.imgur.com/55O8ynj.jpeg", Historias De Ultratumba
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+#EXTINF:-1 group-title="Niños;24/7" tvg-logo="https://i.imgur.com/4bSYN9i.jpeg",Los Padrinos Magicos
+https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
+#EXTINF:-1 group-title="hsjd.com" tvg-logo="https://i.imgur.com/9HeCbG9.jpeg",Los Pitufos
+https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/R2R6XAI.jpeg",Misterios Medicos
+https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/k5n1H1N.jpeg",Misterios Sin Resolver
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/yNMQNEG.png",Mtv Classic
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/0v8TleG.png",Mtv Flow Latino
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+#EXTINF:-1 group-title="Naturaleza" tvg-logo="https://i.imgur.com/jLmxqjO.png", Nature Time
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/09K0kfC.jpeg", Ncis
+https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
+#EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/dhGLRXm.jpeg",Nick Jr Club
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+#EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/wHTJo0L.jpeg",Nickelodeon Clasico
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+#EXTINF:-1 group-title="Niños;24/7" tvg-logo="https://i.imgur.com/IhuGc5c.jpeg",Nickelodeon Icarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+#EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/jqtswNm.jpeg",Nickelodeon Teen
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+#EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/iL9sZ5n.jpeg",Nickelodeon Toons
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+#EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/q7IavsN.jpeg",Pluto Tv Anime
+https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.imgur.com/ErK1mTW.png
+",Pluto Tv Deportes
+https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
+#EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/z6z01ZI.jpeg",Pluto Tv Junior
+https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+#EXTINF:-1 group-title="Niños" tvg-logo="https://i.imgur.com/3UiIEnC.png",Pluto Tv Kids
+https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:-1 group-title="Naturaleza" tvg-logo="https://i.imgur.com/CJbPHMH.jpeg",Pluto Tv Love Nature
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+#EXTINF:-1 group-title="Peliculas" tvg-logo="https://i.imgur.com/B954Rw8.jpeg",Rumtime
+https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
